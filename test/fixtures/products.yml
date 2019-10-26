@@ -7,7 +7,7 @@ one:
   price: 9.99
 
 two:
-  title: ruby.jpg
+  title: linux.jpg
   description: MyText
-  image_url: ruby.jpg
+  image_url: linux.jpg
   price: 9.99
